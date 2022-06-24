@@ -1,31 +1,33 @@
-# Interface
+### EX NO : 09
+### DATE  : 01.06.2022
+# <p align="center">Interface</p>
 
 ## Aim:
-
-To Develop a small bank application by declaring deposit() and withdrawal() as abstract methods in the interface. Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount
+To Develop a small bank application by declaring deposit() and withdrawal() as abstract methods in the interface.  Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount
 
 ## Algorithm:
-
-step 1:
+### step 1: 
 Create an interface.
 
-step 2:
+### step 2:
 Create a child class.
 
-step 3:
+### step 3:
 Declare 2 functions deposit() and withdrawal() as abstract methods in the interface.
 
-step 4:
+### step 4:
 Create those 2 functions in the child class and perform respective operation.
 
-step 4:
+### step 5:
 Use while loop and and switch case to Get the choice from the user whether to perform withdrawal or deposit operation.
 
-step 5:
+### step 6:
 After performing the functions display the remaining balance of the user.
 
+<br/><br/><br/><br/>
+
 ## Program:
-```python
+```c#
 using System;
 
 namespace exp9
@@ -94,8 +96,7 @@ namespace exp9
 ```
 
 ## Output:
-![output3](https://user-images.githubusercontent.com/75235022/173239429-70af6ffb-25c3-49da-918e-bd1c82cd3f91.png)
-
+![image](https://user-images.githubusercontent.com/75235488/172889388-df17e300-3103-4d71-b966-047c61951892.png)
 
 ## Result:
 C# program to develop a bank application using interface is implemented successfully.
